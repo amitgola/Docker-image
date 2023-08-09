@@ -2,9 +2,11 @@
 This is a simple web application using Python Flask. Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.
 
 #### Below are the steps required to get this working on a base linux system.
-**a) Install all required dependencies
-b) Install and Configure Web Server
-c) Start Web Server**
+**1) Install all required dependencies**
+
+**2) Install and Configure Web Server** 
+
+**3) Start Web Server**
 
 
 ## 1)  Install all required dependencies
