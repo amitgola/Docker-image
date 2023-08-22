@@ -24,7 +24,7 @@ Copy app.py or download it from source repository
 ## 3) Start Web Server
 Start web server
 
-    FLASK_APP=app.py flask run --host=0.0.0.0
+    FLASK_APP=/opt/app.py flask run --host=0.0.0.0
 
 ## 4) Test
 Open a browser and go to URL
